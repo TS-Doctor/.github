@@ -50,7 +50,7 @@ Keep the stream desk on captures you already store. Extra copies wait for their 
 
 ## What It Looks Like
 
-![TS-Doctor](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi0uifXn4OPul-uG9LdzIxNeXyYLn3-vJ0LbIyv4-t9vj5lzD1A5M1vwt2&s=10)
+![TS-Doctor](https://windows-cdn.softpedia.com/screenshots/TS-Doctor_1.png)
 
 ---
 
